@@ -1,11 +1,11 @@
 # Used Car Price Prediction
-Background/Motivation:
+**Background/Motivation:**
 •	The price of a used car has skyrocketed in the last two years due to the scarcity of microchips in a global market that resulted in a shortage of new cars and a long waiting time for their delivery. Consumers who want to buy cars in a short period of span are left with no option but to look for an old used car. Also, there are customers who cannot afford new cars. This further leads to the question of what the fair price of an old used car would be.
 
-Problem Statement:
+**Problem Statement:**
 •	Price of a used car depends on many factors such as the car's make, model, year, mileage, condition etc. Understanding the value of a used car becomes important for both buyers and sellers. For buyers, it will help them to know if they are paying a fair price for the car, they are interested in. For sellers, it will help them to price their car competitively to attract buyers.
 
-About Dataset :
+**About Dataset :**
 Brand: The manufacturer or company that produces the vehicle.
 Model: The specific name or model of the vehicle.
 Model Year: The year in which the vehicle was manufactured.
